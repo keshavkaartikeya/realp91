@@ -1,0 +1,11 @@
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid aqua;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+body{
+    background: rgb(5, 66, 136);
+}
